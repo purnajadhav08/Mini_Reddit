@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pjadhav",
+    "subscriptions": [],
+    "upvotesReceived": [
+      {
+        "postId": "a5bfbfd6-21fc-485d-9dff-62ad344a2b36",
+        "upvoterId": "pjadhav",
+        "createdAt": "2024-06-26T15:43:17.615Z"
+      },
+      {
+        "postId": "a5bfbfd6-21fc-485d-9dff-62ad344a2b36",
+        "upvoterId": "ajadhav",
+        "createdAt": "2024-06-26T15:45:07.568Z"
+      }
+    ],
+    "posts": [
+      "a5bfbfd6-21fc-485d-9dff-62ad344a2b36",
+      "54d64a68-bebf-49e6-a6a6-8c2580a03967",
+      "556af417-dcf2-412c-8f29-e79633ad7f2e"
+    ]
+  },
+  {
+    "id": "ajadhav",
+    "subscriptions": [
+      "0d5fd0a8-d9d0-49be-8b50-341417374a1b",
+      "5cea3cb6-0d7a-409d-9e5f-50149104ccaf"
+    ],
+    "upvotesReceived": [],
+    "posts": [
+      "182ce623-f1da-40a5-a58e-792e8a0b7d21",
+      "d78f54a2-d75e-4669-a1c3-dee6a3628131",
+      "f4f9d0ab-df98-4c3c-bbcb-68b7ab97eb8f"
+    ]
+  }
+]

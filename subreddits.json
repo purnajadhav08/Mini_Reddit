@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0d5fd0a8-d9d0-49be-8b50-341417374a1b",
+    "name": "music",
+    "description": "indian classical music",
+    "posts": [
+      {
+        "id": "a4ba7981-6359-44d5-bac3-3ae9fbeab8af",
+        "title": "health benefitd",
+        "content": "healing",
+        "author": "pjadhav",
+        "createdAt": "2024-06-26T15:38:02.459Z",
+        "upvotes": 0,
+        "comments": []
+      },
+      {
+        "id": "a5bfbfd6-21fc-485d-9dff-62ad344a2b36",
+        "title": "get benefits",
+        "content": "jsdhkdhekhkh",
+        "author": "pjadhav",
+        "createdAt": "2024-06-26T15:42:51.352Z",
+        "upvotes": 2,
+        "comments": [
+          {
+            "id": "cfdfe28d-47bd-4c4e-8534-e4d3214a1bba",
+            "text": "jilidjelherrgw",
+            "author": "pjadhav",
+            "createdAt": 1719416805531
+          }
+        ]
+      },
+      {
+        "id": "182ce623-f1da-40a5-a58e-792e8a0b7d21",
+        "title": "my well being",
+        "content": "klslhwkgegwiiwufu",
+        "author": "ajadhav",
+        "createdAt": "2024-06-26T15:50:12.148Z",
+        "upvotes": 0,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": "5cea3cb6-0d7a-409d-9e5f-50149104ccaf",
+    "name": "fashion",
+    "description": "traditional and western blend",
+    "posts": [
+      {
+        "id": "d78f54a2-d75e-4669-a1c3-dee6a3628131",
+        "title": "sari",
+        "content": "ljsdhehkh.ke",
+        "author": "ajadhav",
+        "createdAt": "2024-06-26T16:04:59.283Z",
+        "upvotes": 0,
+        "comments": []
+      },
+      {
+        "id": "f4f9d0ab-df98-4c3c-bbcb-68b7ab97eb8f",
+        "title": "jeans",
+        "content": "bjegjggwgwg",
+        "author": "ajadhav",
+        "createdAt": "2024-06-26T16:05:30.469Z",
+        "upvotes": 0,
+        "comments": []
+      },
+      {
+        "id": "54d64a68-bebf-49e6-a6a6-8c2580a03967",
+        "title": "pants",
+        "content": "ndkehhhiweiwge",
+        "author": "pjadhav",
+        "createdAt": "2024-06-26T16:12:53.129Z",
+        "upvotes": 0,
+        "comments": []
+      }
+    ]
+  },
+  {
+    "id": "59da5a27-c467-4ea5-9cd1-0c3282a9eb2e",
+    "name": "technology",
+    "description": "All about the latest in tech.",
+    "posts": [
+      {
+        "id": "556af417-dcf2-412c-8f29-e79633ad7f2e",
+        "title": "My first post",
+        "content": "This is the content of my first post.",
+        "author": "pjadhav",
+        "createdAt": "2024-06-26T16:34:51.188Z",
+        "upvotes": 0,
+        "comments": []
+      }
+    ]
+  }
+]
